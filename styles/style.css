@@ -57,7 +57,7 @@
   max-width: 515px;
 }
 .header__content {
-  display: flex;
+  display: inline-flex;
   justify-content: space-between;
 }
 .header__image {
@@ -65,7 +65,7 @@
   max-width: 636px;
 }
 .header__footer {
-  display: flex;
+  display: inline-flex;
   justify-content: flex-end;
 }
 .header__link {
