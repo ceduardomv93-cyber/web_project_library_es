@@ -57,7 +57,7 @@
   max-width: 515px;
 }
 .header__content {
-  display: inline-flex;
+  display: -webkit-inline-box;
   justify-content: space-between;
 }
 .header__image {
