@@ -42,7 +42,6 @@
   box-sizing: border-box;
 }
 .header__title {
-  display: flex;
   font-size: 62px;
   line-height: 76px;
   font-weight: 500;
@@ -50,28 +49,30 @@
   margin: 128px 0 0;
 }
 .header__description {
-  display: flex;
   margin-top: 32px;
   font-size: 20px;
   line-height: 30px;
   max-width: 515px;
 }
 .header__content {
-  display: -webkit-inline-box;
+  display: flex;
   justify-content: space-between;
 }
 .header__image {
-  display: flex;
   max-width: 636px;
+  object-fit: cover;
 }
 .header__footer {
-  display: inline-flex;
+  display: flex;
   justify-content: flex-end;
+  margin-top: auto;
+  align-items: center;
+  width: 100%;
 }
 .header__link {
   font-size: 14px;
   line-height: 20px;
-  color: #838383;
+  color: #2f80ed;
   text-decoration: none;
 }
 .header__address {
