@@ -71,7 +71,6 @@
 }
 .header__link {
   font-size: 14px;
-
   line-height: 20px;
   color: #2f80ed;
   text-decoration: none;
@@ -163,7 +162,6 @@ div {
   line-height: 20px;
   color: #838383;
   display: flex;
-
   justify-content: flex-start;
 }
 main {
