@@ -171,7 +171,7 @@
   line-height: 52px;
   margin: 32px 0 0;
 }
-.event-info__section {
+.events-info__section {
   margin-top: 32px;
 }
 .event-info__item {
@@ -187,7 +187,7 @@
   width: 24px;
   height: 24px;
 }
-.event__description {
+.events__description {
   margin: 40px 0 60px;
 }
 .event-info__text {
@@ -219,7 +219,7 @@
 }
 .person_name_feynman {
   top: -30px;
-  left: 318px;
+  left: 319px;
 }
 
 .person_name_burbidge {
