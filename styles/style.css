@@ -322,11 +322,11 @@
   display: flex;
 }
 
-.footer__column_content_hours {
+.footer__column-content-hours {
   margin-left: auto;
 }
 
-.footer__column_content_social {
+.footer__column-content-social {
   margin-left: 80px;
 }
 
