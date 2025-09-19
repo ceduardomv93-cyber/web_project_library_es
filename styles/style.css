@@ -317,11 +317,9 @@
   color: white;
   padding: 60px 80px;
 }
-
-.footer__column {
+.footer__columns {
   display: flex;
 }
-
 .footer__column_content_hours {
   margin-left: auto;
 }
