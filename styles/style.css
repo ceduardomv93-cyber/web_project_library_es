@@ -171,26 +171,26 @@
   line-height: 52px;
   margin: 32px 0 0;
 }
-.events__info-section {
+.event-info__section {
   margin-top: 32px;
 }
-.events-info__item {
+.event-info__item {
   display: flex;
   align-items: center;
   margin-bottom: 4px;
   font-weight: 500;
 }
-.events-info__icon {
+.event-info__icon {
   background-repeat: no-repeat;
   background-position: center;
   margin-right: 12px;
   width: 24px;
   height: 24px;
 }
-.events__description {
+.event__description {
   margin: 40px 0 60px;
 }
-.events-info__text {
+.event-info__text {
   font-size: 20px;
   font-weight: 500;
   line-height: 30px;
